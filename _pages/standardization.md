@@ -6,4 +6,4 @@ background: grey
 ---
 <br>
 
-### Standardization
+### SCION Standardization
