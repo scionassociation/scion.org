@@ -6,7 +6,7 @@
 @import "base/mixins.scss";
 
 // Custom colors
-$navbar-primary: {{ site.data.style.navbar-highlight | default: "#fed136" }} !default;
+$navbar-primary: {{ site.data.style.navbar-highlight | default: "#ffffff" }} !default;
 $primary: {{ site.data.style.highlight | default: "#fed136" }} !default;
 $white: {{ site.data.style.white | default: "#fff" }} !default;
 $black: {{ site.data.style.black | default: "#000" }} !default;
