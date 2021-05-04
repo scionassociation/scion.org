@@ -35,6 +35,15 @@
           color: $navbar-primary;
         }
       }
+      .dropdown-menu{
+        margin-top: 0;
+        min-width: 250px;
+      }
+      &:hover {
+        .dropdown-menu{
+          display: block;
+        }
+      }
     }
   }
 }
@@ -60,6 +69,10 @@
         }
       }
     }
+/*  .navbar .nav-item .dropdown-menu{ display: none; }
+    .navbar .nav-item:hover .nav-link{ color: #fff;  }
+    .navbar .nav-item:hover .dropdown-menu{ display: block; }
+    .navbar .nav-item .dropdown-menu{ margin-top:0; } */
     &.navbar-shrink {
       padding-top: 0;
       padding-bottom: 0;

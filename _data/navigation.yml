@@ -1,9 +1,24 @@
 nav:
   - title: "Services"
     section: services
+    sublinks:
+      # add a horizontal dropdown separator with: title: separator
+      - title: Standardization
+        url: /standardization
+      - title: Development
+        url: /development
+      - title: Certification
+        url: /certification
+
+  - title: "Impact"
+    section: areas
 
   - title: "Organization"
     section: organization
+    sublinks:
+      - title: Trust
+      - title: Engineering Group
+      - title: Certification Institute
     
   - title: "About"
     section: timeline
