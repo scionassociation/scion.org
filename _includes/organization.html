@@ -1,5 +1,5 @@
 <!-- Organization -->
-<section class="bg-light page-section" id="{{ site.data.sitetext.organization.section | default: " organization" }}">
+<section class="page-section" id="{{ site.data.sitetext.organization.section | default: " organization" }}">
     <div class="container">
 
         <div class="row">
@@ -14,16 +14,13 @@
         </div>
 
         <div class="row text-center">
-            {% for service in site.data.sitetext.organization.list %}
-            <div class="col-md-4">
-                <span class="fa-stack fa-4x">
-                    <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                    <i class="{{ service.icon | default: " fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
-                </span>
-                <h4 class="service-heading">{{ service.title | markdownify }}</h4>
-                {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
+            <div class="col-md">
+                <!-- <span class="fa-stack fa-4x"> -->
+                <img src="assets/img/organization/foundation_structure.png" alt="SCION Foundation Structure">
+                <!--  </span> -->
+                <h4 class="service-heading">{{ organization.title | markdownify }}</h4>
+                {% if organization.desc %}<div class="text-muted">{{ organization.desc | markdownify }}</div>{% endif %}
             </div>
-            {% endfor %}
         </div>
     </div>
 </section>

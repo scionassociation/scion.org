@@ -14,8 +14,8 @@
     <div class="row text-center">
       {% for service in site.data.sitetext.services.list %}
       <div class="col-md-4">
-        <a href={{ service.url }}>
-          <span class="fa-stack fa-4x">
+        <a class="service-href" href={{ service.url }}>
+          <span class=" fa-stack fa-4x">
             <i class="fas fa-circle fa-stack-2x text-primary"></i>
             <i class="{{ service.icon | default: " fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
           </span>
