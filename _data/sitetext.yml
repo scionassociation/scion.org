@@ -1,29 +1,56 @@
 header:
-    # title: SCION Foundation
-    # text: It's Nice To Meet You
+    title: Enabling Secure and Efficient Communication Worldwide
+    text:
     # button: Tell Me More
     # buttonlink: "#services"
 
 services:
-    title: "Services"
-    text: "What we do"
+    title: "What we do"
+    text: "Advancing the SCION Technology"
     section: services
     list:
-      - title: "Standardization"
-        desc: "Standardizing the SCION Protocol"
+      - title: "SCION Standardization"
+        desc: "Standardization of the SCION Protocol"
         icon: fas fa-university #find more at https://fontawesome.com/icons
         url: standardization
-      - title: "Development"
+      - title: "SCION Development"
         desc: "Development of the SCION open source reference implementation"
-        icon: fas fa-laptop-code
+        icon: fas fa-file-code
         url: development   
-      - title: "Certification"
+      - title: "SCION Certification"
         desc: "Certification of SCION compatible infrastructure and services"
         icon: fas fa-stamp
         url: certification
 
+areas:
+    title: "Core Areas"
+    text: "How SCION impacts the World"
+    section: areas
+    list:
+      - title: High Security and Trust
+        desc:
+        icon: fas fa-lock
+        color: "#2673BF"
+        url: impact
+      - title: Simpler Governance and Trust Model
+        desc:
+        icon: fas fa-handshake
+        color: "#002060"
+        desc:
+        url: governance
+      - title: Low Carbon Footprint
+        desc:
+        icon: fas fa-leaf
+        color: "#006620"
+        url: carbon
+      - title: High Efficiency and Availability
+        desc:
+        icon: fas fa-chart-line
+        color: "#000000"
+        url: efficiency
+
 organization:
-    title: Organization
+    title: How we are organized
     text: ""
     section: organization
 
@@ -39,15 +66,15 @@ timeline:
     text: "Timeline"
     section: timeline
     # left is the default
-    #start_align: "left"
+    # start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2021"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "March 2021"
+        desc: "SCION Foundation is established"
         image: assets/img/timeline/1.jpg
         alt: 
-      - title: "An Agency is Born"
-        year: "March 2011"
+      - title: "First SCION standard is finished"
+        year: "October 2021"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt: 
@@ -77,9 +104,9 @@ partners:
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
+      - title: "ETH Zürich"
+        url: https://ethz.ch
+        logo: assets/img/clients/eth.png
       - title: "designmodo"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
@@ -98,7 +125,7 @@ team:
     people:
       - name: "Adrian Perrig"
         role: "Board Member"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/perrig.jpg
         # social:
           # - url: https://twitter.com
             # icon: fab fa-twitter
@@ -112,10 +139,10 @@ team:
       - name: "Claude Hähni"
         role: "Developer"
         image: assets/img/team/haehni.jpg
-      - name: "Diana Perterson"
+      - name: "Jane Doe"
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
-      - name: "Diana Perterson"
+      - name: "John Doe"
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
           
