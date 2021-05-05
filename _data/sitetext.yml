@@ -1,8 +1,8 @@
 header:
     title: Enabling Secure and Efficient Communication Worldwide
     text:
-    # button: Tell Me More
-    # buttonlink: "#services"
+    button: SCION Internet Architecture
+    buttonlink: "https://www.scion-architecture.net/"
 
 services:
     title: "What we do"
@@ -107,48 +107,48 @@ partners:
       - title: "ETH Zürich"
         url: https://ethz.ch
         logo: assets/img/clients/eth.png
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "ETH Foundation"
+        url: https://www.ethz-foundation.ch/
+        logo: assets/img/clients/eth_foundation.png
     
 team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Meet the people of the SCION Foundation"
+    subtext: ""
     section: team
     people:
       - name: "Adrian Perrig"
         role: "Board Member"
         image: assets/img/team/perrig.jpg
-        # social:
+        social:
           # - url: https://twitter.com
             # icon: fab fa-twitter
           # - url: https://facebook.com
             # icon: fab fa-facebook-f
-          # - url: https://linkedin.com
-            # icon: fab fa-linkedin-in
+          - url: https://www.linkedin.com/in/adrian-perrig-58334830/
+            icon: fab fa-linkedin-in
+      - name: "Nicola Rustignoli"
+        role: "Project Lead"
+        social:
+          - url: https://www.linkedin.com/in/nicola-rustignoli-830b7512/
+            icon: fab fa-linkedin-in
+        image: assets/img/team/rustignoli.jpg
       - name: "Shancong Yu"
         role: "Marketing & Communications"
         image: assets/img/team/song.jpg
+        social:
+          - url: https://www.linkedin.com/in/shancong-yu-97906062/
+            icon: fab fa-linkedin-in
       - name: "Claude Hähni"
-        role: "Developer"
         image: assets/img/team/haehni.jpg
-      - name: "Jane Doe"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-      - name: "John Doe"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+        role: ""
+        social:
+          - url: https://www.linkedin.com/in/chaehni/
+            icon: fab fa-linkedin-in
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: ""
     section: contact
     
 footer:

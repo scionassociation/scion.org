@@ -1,5 +1,5 @@
 nav:
-  - title: "Services"
+  - title: "Operation"
     section: services
     sublinks:
       # add a horizontal dropdown separator with: title: separator
@@ -14,11 +14,7 @@ nav:
     section: areas
 
   - title: "Organization"
-    section: organization
-    sublinks:
-      - title: Trust
-      - title: Engineering Group
-      - title: Certification Institute
+    url: organization
     
   - title: "About"
     section: timeline
