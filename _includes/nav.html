@@ -33,9 +33,15 @@
             {% if sublink.title == 'separator' %}
             <li role="separator" class="dropdown-divider"></li>
             {% else %}
+            {%- if sublink.url -%}
             <li>
               <a href="{{ sublink.url }}">{{ sublink.title }}</a>
             </li>
+            {%- else if sublink.section -%}
+            <li>
+              <a href="/#{{ sublink.section }}">{{ sublink.title }}</a>
+            </li>
+            {%- endif -%}
             {% endif %}
             {% endfor %}
           </ul>
@@ -45,7 +51,7 @@
           {%- if link.url -%}
           <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
           {%- else if link.section -%}
-          <a class="nav-link js-scroll-trigger" href="#{{ link.section }}">{{ link.title }}</a>
+          <a class="nav-link js-scroll-trigger" href="/#{{ link.section }}">{{ link.title }}</a>
           {%- else -%}
           <a class="nav-link js-scroll-trigger" href="#">{{ link.title }}</a>
           {%- endif -%}
