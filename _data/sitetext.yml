@@ -1,8 +1,15 @@
 header:
     title: Enabling Secure and Efficient Communication Worldwide
     text:
-    button: SCION Internet Architecture
-    buttonlink: "https://www.scion-architecture.net/"
+    button:
+    buttonlink:
+
+scion:
+  title: What is SCION?
+  text: Scalability, Contorl, and Isolation on Next-Generation Networks
+  section: scion
+  button: Learn More
+  buttonlink: /scion
 
 services:
     title: "What we do"

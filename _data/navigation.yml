@@ -1,4 +1,11 @@
 nav:
+
+  - title: "SCION"
+    section: scion
+
+  - title: "News"
+    url: news
+
   - title: "Operation"
     section: services
     sublinks:
