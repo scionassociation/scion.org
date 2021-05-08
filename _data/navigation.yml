@@ -2,6 +2,9 @@ nav:
 
   - title: "SCION"
     section: scion
+    sublinks:
+      - title: What is SCION?
+        url: /scion
 
   - title: "News"
     url: news
@@ -20,11 +23,11 @@ nav:
   - title: "Impact"
     section: areas
 
-  - title: "Organization"
-    url: organization
+  # - title: "Organization"
+    # url: organization
     
-  - title: "About"
-    section: timeline
+  # - title: "About"
+    # section: timeline
 
   - title: "Team"
     section: team
