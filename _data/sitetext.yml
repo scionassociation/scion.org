@@ -6,7 +6,7 @@ header:
 
 scion:
   title: What is SCION?
-  text: Scalability, Contorl, and Isolation on Next-Generation Networks
+  text: Scalability, Control, and Isolation on Next-Generation Networks
   section: scion
   button: Learn More
   buttonlink: /scion
@@ -25,7 +25,7 @@ services:
         icon: fas fa-file-code
         url: development   
       - title: "SCION Certification"
-        desc: "Certification of SCION compatible infrastructure and services"
+        desc: "Certification of SCION compatible infrastructures and services"
         icon: fas fa-stamp
         url: certification
 
@@ -38,23 +38,23 @@ areas:
         desc:
         icon: fas fa-lock
         color: "#2673BF"
-        url: impact
+        # url: impact
       - title: Simpler Governance and Trust Model
         desc:
         icon: fas fa-handshake
         color: "#002060"
         desc:
-        url: governance
+        # url: governance
       - title: Low Carbon Footprint
         desc:
         icon: fas fa-leaf
         color: "#006620"
-        url: carbon
+        # url: carbon
       - title: High Efficiency and Availability
         desc:
         icon: fas fa-chart-line
         color: "#000000"
-        url: efficiency
+        # url: efficiency
 
 organization:
     title: How we are organized
@@ -163,9 +163,9 @@ footer:
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"  
-      - url: https://www.facebook.com/SCION-Secure-Internet-Architecture-409142279642924/
+      - url: # https://www.facebook.com/SCION-Secure-Internet-Architecture-409142279642924/
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: # https://www.linkedin.com/showcase/scion-internet-architecture/
         icon: "fab fa-linkedin-in"
         
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

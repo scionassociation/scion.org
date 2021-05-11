@@ -5,20 +5,24 @@ nav:
     sublinks:
       - title: What is SCION?
         url: /scion
+      # - title: Videos
 
-  - title: "News"
-    url: news
-
-  - title: "Operation"
+  - title: "Foundation"
     section: services
     sublinks:
       # add a horizontal dropdown separator with: title: separator
+      - title: Our Mission
+        # url: /mission
+      - title: separator
       - title: Standardization
         url: /standardization
       - title: Development
         url: /development
       - title: Certification
         url: /certification
+
+  - title: "News"
+    url: news
 
   - title: "Impact"
     section: areas

@@ -6,6 +6,10 @@ background: grey
 ---
 <br>
 
-### SCION Standardization
+## SCION Standardization
 
-Hello World!
+The goal of the SCION Foundation is to establish the SCION Internet Architecture
+as a global Internet standard. To that extent, the SCION Foundation collaborates
+with internet standard organizations such as the IETF, ITU, and ENISA to
+publish and continuously further develop SCION standard documents. These
+documents allow enterprises to create SCION-compatible products and services.
