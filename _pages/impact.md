@@ -4,7 +4,6 @@ title: SCION Impact
 permalink: /impact
 background: grey
 ---
-
 <br>
 
 ## How SCION impacts the world
