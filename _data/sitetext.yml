@@ -4,57 +4,57 @@ header:
     button:
     buttonlink:
 
-scion:
-  title: What is SCION?
+foundation:
+  title: Who we are
   text: Scalability, Control, and Isolation on Next-Generation Networks
-  section: scion
+  section: about
   button: Learn More
-  buttonlink: /scion
+  buttonlink: /about
 
-services:
-    title: "What we do"
-    text: "Advancing the SCION Technology"
-    section: services
-    list:
-      - title: "SCION Standardization"
-        desc: "Standardization of the SCION Protocol"
-        icon: fas fa-university #find more at https://fontawesome.com/icons
-        url: standardization
-      - title: "SCION Development"
-        desc: "Development of the SCION open source reference implementation"
-        icon: fas fa-file-code
-        url: development   
-      - title: "SCION Certification"
-        desc: "Certification of SCION compatible infrastructures and services"
-        icon: fas fa-stamp
-        url: certification
+# services:
+#    title: "What we do"
+#    text: "Advancing the SCION Technology"
+#    section: services
+#    list:
+#      - title: "SCION Standardization"
+#        desc: "Standardization of the SCION Protocol"
+#        icon: fas fa-university #find more at https://fontawesome.com/icons
+#        url: standardization
+#      - title: "SCION Development"
+#        desc: "Development of the SCION open source reference implementation"
+#        icon: fas fa-file-code
+#        url: development   
+#      - title: "SCION Certification"
+#        desc: "Certification of SCION compatible infrastructures and services"
+#        icon: fas fa-stamp
+#        url: certification
 
-areas:
-    title: "Core Areas"
-    text: "How SCION impacts the World"
-    section: areas
-    list:
-      - title: High Security and Trust
-        desc:
-        icon: fas fa-lock
-        color: "#2673BF"
-        # url: impact
-      - title: Simpler Governance and Trust Model
-        desc:
-        icon: fas fa-handshake
-        color: "#002060"
-        desc:
-        # url: governance
-      - title: Low Carbon Footprint
-        desc:
-        icon: fas fa-leaf
-        color: "#006620"
-        # url: carbon
-      - title: High Efficiency and Availability
-        desc:
-        icon: fas fa-chart-line
-        color: "#000000"
-        # url: efficiency
+# areas:
+#    title: "Core Areas"
+#    text: "How SCION impacts the World"
+#    section: areas
+#    list:
+#      - title: High Security and Trust
+#        desc:
+#        icon: fas fa-lock
+#        color: "#2673BF"
+#        url: impact
+#      - title: Simpler Governance and Trust Model
+#        desc:
+#        icon: fas fa-handshake
+#        color: "#002060"
+#        desc:
+#        url: governance
+#      - title: Low Carbon Footprint
+#        desc:
+#        icon: fas fa-leaf
+#        color: "#006620"
+#        url: carbon
+#      - title: High Efficiency and Availability
+#        desc:
+#        icon: fas fa-chart-line
+#        color: "#000000"
+#        url: efficiency
 
 organization:
     title: How we are organized
@@ -109,7 +109,7 @@ partners:
     text: ""
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "ETH Zürich"
         url: https://ethz.ch
@@ -161,11 +161,11 @@ contact:
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"  
-      - url: # https://www.facebook.com/SCION-Secure-Internet-Architecture-409142279642924/
+    #  - url: https://twitter.com
+    #    icon: "fab fa-twitter"  
+      - url: https://www.facebook.com/SCION-Secure-Internet-Architecture-409142279642924/
         icon: "fab fa-facebook-f"
-      - url: # https://www.linkedin.com/showcase/scion-internet-architecture/
+      - url: https://www.linkedin.com/showcase/scion-internet-architecture/
         icon: "fab fa-linkedin-in"
         
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

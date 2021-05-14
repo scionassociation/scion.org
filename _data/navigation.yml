@@ -1,40 +1,32 @@
 nav:
 
-  - title: "SCION"
-    section: scion
-    sublinks:
-      - title: What is SCION?
-        url: /scion
-      # - title: Videos
+  - title: "About"
+    section: about
+#   sublinks:
+    # add a horizontal dropdown separator with: title: separator
+#     - title: Our Mission
+#       url: /mission
+#     - title: Organization
+#       url: /organization
+#     - title: separator
+#     - title: Standardization
+#       url: /standardization
+#     - title: Development
+#       url: /development
+#     - title: Certification
+#       url: /certification
 
-  - title: "Foundation"
-    section: services
-    sublinks:
-      # add a horizontal dropdown separator with: title: separator
-      - title: Our Mission
-        # url: /mission
-      - title: separator
-      - title: Standardization
-        url: /standardization
-      - title: Development
-        url: /development
-      - title: Certification
-        url: /certification
+  - title: "SCION"
+    url: scion
 
   - title: "News"
     url: news
 
-  - title: "Impact"
-    section: areas
-
-  # - title: "Organization"
-    # url: organization
-    
-  # - title: "About"
-    # section: timeline
-
   - title: "Team"
     section: team
+  
+  - title: "career"
+    url: /jobs
 
   - title: "Contact"
     section: contact

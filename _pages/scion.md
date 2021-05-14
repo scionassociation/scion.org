@@ -19,6 +19,9 @@ we can fundamentally improve the security to a level that is unlikely to be
 achievable through incremental changes.
 
 <br>
+<a class="btn btn-primary btn-lg" href="https://scion-architecture.net">
+    <i class="fas fa-user-graduate"></i> Learn More
+</a>
 <a class="btn btn-primary btn-lg" href="https://github.com/scionproto/scion">
     <i class="fab fa-github"></i> Source Code
 </a>
