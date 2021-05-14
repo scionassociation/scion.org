@@ -28,6 +28,5 @@ folder, run the following command:
 ```bash
 JEKYLL_ENV=production jekyll build
 ```
-⚠️ This page automatically deploys to GitHub Pages. All changes pushed to the
-```_site``` folder will become publicly visible.
+⚠️ This page automatically deploys to GitHub Pages. All pushed changes become publicly visible.
 
