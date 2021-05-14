@@ -26,7 +26,7 @@ nav:
     section: team
   
   - title: "career"
-    url: /jobs
+    url: jobs
 
   - title: "Contact"
     section: contact
