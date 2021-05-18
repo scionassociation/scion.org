@@ -22,8 +22,8 @@ nav:
   - title: "News"
     url: news
 
-  - title: "Team"
-    section: team
+#  - title: "Team"
+#    section: team
   
   - title: "career"
     url: jobs
