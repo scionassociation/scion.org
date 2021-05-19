@@ -9,6 +9,9 @@ background: grey
 ### SCION-Related News
 <br>
 
+**2021/05/17:**  
+David Hausheer has published a [blogpost](https://labs.ripe.net/author/hausheer/scion-a-novel-internet-architecture/) about the recent Birds of a Feather (BoF) session about SCION at the RIPE 81 conference and will be organizing another one at RIPE 82.
+
 **2020/11/26:**  
 The new SCION newsletter is available [here](https://www.scion-architecture.net/newsletter/nl10.pdf), discussing the necessity of multi-path routing for a reliable Internet.
 
