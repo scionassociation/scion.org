@@ -10,7 +10,7 @@ background: grey
 <br>
 
 **2020/11/26:**  
-The new SCION newsletter is available <a href="https://www.scion-architecture.net/newsletter/nl10.pdf">here</a>, discussing the necessity of multi-path routing for a reliable Internet.
+The new SCION newsletter is available [here](https://www.scion-architecture.net/newsletter/nl10.pdf), discussing the necessity of multi-path routing for a reliable Internet.
 
 **2020/11/20:**  
 Early research result: global SCION deployment could save 1 GW of electric power. This corresponds to 1/7th of electricity usage for all of Switzerland!
