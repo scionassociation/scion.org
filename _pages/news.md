@@ -9,8 +9,20 @@ background: grey
 ### SCION-Related News
 <br>
 
+**2021/05/20:**  
+The latest SCION newsletter is available [here](https://mailchi.mp/90a73969ba79/scion-newsletter-6498016), discussing the launch of the SCION Foundation and green routing.
+
 **2021/05/17:**  
 David Hausheer has published a [blogpost](https://labs.ripe.net/author/hausheer/scion-a-novel-internet-architecture/) about the recent Birds of a Feather (BoF) session about SCION at the RIPE 81 conference and will be organizing another one at RIPE 82.
+
+**2021/03/12:**  
+Sustainable aspects of SCION: See our [latest news](https://www.weforum.org/agenda/2021/03/internet-carbon-emissions-data-path-scion/) on green routing presented at WEF.
+
+**2021/01/25:**  
+With SCIONs mechanisms for in-network source authentication and built-in defenses against reflector attacks, exploits like these would be a story of the past (dark ages of the Internet): New article available [here](https://arstechnica.com/information-technology/2021/01/ddosers-are-abusing-microsoft-rdp-to-make-attacks-more-powerful/).
+
+**2020/12/18:**  
+Cybersecurity made in Zürich: Quick [portraits](https://www.computerworld.ch/security/start-ups/cybersecurity-made-in-zuerich-2618003.html) of different startups.
 
 **2020/11/26:**  
 The new SCION newsletter is available [here](https://www.scion-architecture.net/newsletter/nl10.pdf), discussing the necessity of multi-path routing for a reliable Internet.
