@@ -21,6 +21,9 @@ David Hausheer has published a [blogpost](https://labs.ripe.net/author/hausheer/
 **2021/03/12:**  
 Sustainable aspects of SCION: See our [latest news](https://www.weforum.org/agenda/2021/03/internet-carbon-emissions-data-path-scion/) on green routing presented at WEF.
 
+**2021/02/10:**  
+SCION packets are proven to follow only authorized paths, so no Frankenpaths are possible. Congratulations to Tobias Klenze, Christoph Sprenger and David Basin for their [amazing paper](https://www.scion-architecture.net/pdf/2021-forwarding-verification.pdf) that will appear at CSF 2021.
+
 **2021/01/25:**  
 With SCIONs mechanisms for in-network source authentication and built-in defenses against reflector attacks, exploits like these would be a story of the past (dark ages of the Internet): New article available [here](https://arstechnica.com/information-technology/2021/01/ddosers-are-abusing-microsoft-rdp-to-make-attacks-more-powerful/).
 
