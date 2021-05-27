@@ -9,6 +9,9 @@ background: grey
 ### SCION-Related News
 <br>
 
+**2021/05/25:**  
+SCION in P4: Congratulations to researchers at SIDN labs for successfully implementing a SCION router on a P4 platform! Read more about their work [here](https://www.sidnlabs.nl/nieuws-en-blogs/future-internet-at-terabit-speeds-scion-in-p4).
+
 **2021/05/20:**  
 The latest SCION newsletter is available [here](https://mailchi.mp/90a73969ba79/scion-newsletter-6498016), discussing the launch of the SCION Foundation and green routing.
 
