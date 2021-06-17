@@ -10,7 +10,7 @@ background: grey
 <br>
 
 **2021/06/08:**  
-SCION in [technology outlook 2021](https://www.satw.ch/fileadmin/user_upload/documents/02_Themen/01_Frueherkennung/Technology_Outlook_2021/SATW_Technology_Outlook_2021_EN.pdf), published by SATW.
+SCION in [technology outlook 2021](https://www.satw.ch/fileadmin/user_upload/documents/02_Themen/01_Frueherkennung/Technology_Outlook_2021/SATW_Technology_Outlook_2021_EN.pdf)(p.44), published by SATW.
 
 **2021/06/01:**  
 Root cause of why the Internet as we know it can be so vulnerable - more about it in [this WEF article](https://www.weforum.org/agenda/2021/06/internet-connectivity-border-gateway-protocol-scion/?utm_content=168741045&utm_medium=social&utm_source=linkedin&hss_channel=lcp-25044813).
