@@ -9,6 +9,9 @@ background: grey
 ### SCION-Related News
 <br>
 
+**2021/06/01:**  
+Excellent [paper](https://netsec.ethz.ch/publications/papers/scherrer__novel_interconnection.pdf) about enabling novel interconnection agreements with path-aware networking architectures.
+
 **2021/05/25:**  
 SCION in P4: Congratulations to researchers at SIDN labs for successfully implementing a SCION router on a P4 platform! Read more about their work [here](https://www.sidnlabs.nl/nieuws-en-blogs/future-internet-at-terabit-speeds-scion-in-p4).
 
