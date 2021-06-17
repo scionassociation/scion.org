@@ -10,6 +10,9 @@ background: grey
 <br>
 
 **2021/06/01:**  
+Root cause of why the Internet as we know it can be so vulnerable - more about it in [this WEF article](https://www.weforum.org/agenda/2021/06/internet-connectivity-border-gateway-protocol-scion/?utm_content=168741045&utm_medium=social&utm_source=linkedin&hss_channel=lcp-25044813).
+
+**2021/05/30:**  
 Excellent [paper](https://netsec.ethz.ch/publications/papers/scherrer__novel_interconnection.pdf) about enabling novel interconnection agreements with path-aware networking architectures.
 
 **2021/05/25:**  
