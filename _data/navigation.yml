@@ -22,6 +22,9 @@ nav:
   - title: "News"
     url: news
 
+  - title: "Blog"
+    url: blog
+
 #  - title: "Team"
 #    section: team
   

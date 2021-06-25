@@ -1,0 +1,20 @@
+---
+layout: post
+background: grey
+author: Seyedali Tabaeiaghdaei & Simon Scherrer
+title: Green Routing
+---
+
+By recent estimates, the ICT sector is responsible for 1.4 Gt CO2 emission per year. Internet backbone networks are responsible for 6 percent thereof. Therefore, reducing the emission of backbone networks will have a noticeable impact to reduce global warming. Previous research efforts have indeed already established ways to design backbone networks with energy and carbon efficiency in mind. However, all prior work we are aware of focuses only on intra-AS routing, or at most on the interaction between two neighbor ASes. The main reason for this narrow focus is that the Border Gateway Protocol, the de facto inter-domain routing protocol, provides only a single path between two end-hosts. Due to restrictive path-selection policies, BGP cannot take into account path-specific CO2 emissions. Furthermore, the mentioned  intra-domain solutions for reducing the emission of Internet communications cannot be easily transferred to an inter-domain context due to efficiency and security concerns. In our research, we therefore propose to leverage the SCION inter-domain routing mechanism to route packets over the path with the lowest amount of CO2 emissions.
+
+SCION is a path-aware network architecture in which end hosts select the forwarding path of their packets towards every destination. Every packet contains a representation of its own forwarding path and routers forward packets accordingly. Furthermore, the procedure of path advertisement in SCION can distribute additional information about the inter-domain paths. So, by distributing the information about the emission of each inter-domain path, we can provide users with the opportunity of selecting the path with the lowest CO2 emission per bit of data.
+
+In order to identify paths with a small carbon footprint, path-specific CO2 emissions need to be estimated. To this end, we developed a model for estimating the energy consumption and CO2 emission of inter-domain paths. Furthermore, we plan to extend  the SCION routing messages (beacons) with data structures that encode the emission information of each AS on the path. 
+
+Such carbon-related path information reduces carbon emission in two ways. First, SCION’s path-discovery mechanism (beaconing) can rely on carbon information when deciding which paths to propagate to neighboring nodes. With our new green import policy, the greenest set of paths toward every destination is selected and propagated. Second,  end-hosts can select green paths and thereby decrease their contribution to the CO2 emission of the network.
+
+We evaluate our proposed method using simulations on a subset of the real Internet inter-domain topology. Using our simulations, we show that for communications between more than half of AS pairs, we can decrease the CO2 emission by at least 50 percent. Furthermore, by modeling the traffic between ASes in our topology and deriving the amount of reduction in CO2 emission per GB of data between every two ASes, we estimate the amount of CO2 that can be saved by each source AS every month. 
+
+Finally, the provision of green paths to end-users gives rise to an interesting dynamic: if some amount of traffic shifts to greener paths,  ASes on polluting paths lose some portion of traffic that they used to transit. This loss might incentivize such ASes to purchase more low-carbon electricity  or to improve  the energy efficiency of their devices so they can win back their lost traffic. Hence, the new incentive structure of carbon-aware routing is expected to create a virtuous cycle, where different ISPs attract traffic by reducing their carbon footprint.
+
+In our study, we propose a model for this phenomenon and simulate it. The results of our simulations show that the virtuous feedback cycle converges to a state in which the whole network's CO2 emission is 53 percent less than the initial state. We are currently writing up these results in a research paper, please contact us to obtain a pre-print.

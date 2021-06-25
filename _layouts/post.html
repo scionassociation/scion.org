@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{% include nav.html %}
+
+
+{% if page.background == "grey" or page.background == "gray" %}
+<script>
+    document.getElementById("page-top").className = "bg-light";
+</script>
+{% endif %}
+<br>
+<div class="container" id="pagecontainer">
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+    {{ content }}
+</div>
