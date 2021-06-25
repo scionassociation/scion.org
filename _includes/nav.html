@@ -20,7 +20,7 @@
         {% if link.sublinks %}
         <li class="nav-item dropdown">
           {%- if link.url -%}
-          <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
+          <a class="nav-link js-scroll-trigger" href="{{ link.url | absolute_url  }}">{{ link.title }}</a>
           {%- else if link.section -%}
           <!-- <a class="nav-link js-scroll-trigger dropdown-toggle" data-toggle="dropdown" role="button"
             aria-haspopup="true" aria-expanded="false" href="/#{{ link.section
@@ -36,7 +36,7 @@
             {% else %}
             {%- if sublink.url -%}
             <li>
-              <a href="{{ sublink.url }}">{{ sublink.title }}</a>
+              <a href="{{ sublink.url | absolute_url  }}">{{ sublink.title }}</a>
             </li>
             {%- else if sublink.section -%}
             <li>
@@ -50,7 +50,7 @@
         {% else %}
         <li class="nav-item">
           {%- if link.url -%}
-          <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
+          <a class="nav-link js-scroll-trigger" href="{{ link.url | absolute_url }}">{{ link.title }}</a>
           {%- else if link.section -%}
           <a class="nav-link js-scroll-trigger" href="/#{{ link.section }}">{{ link.title }}</a>
           {%- else -%}

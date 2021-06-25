@@ -21,7 +21,7 @@ email      : info@scion.foundation # this is also the email contact forms will g
 description: "The SCION Foundation promotes the advancement of next generation internet"
 author     : Nicola Rustignoli
 logo:     #optional, defaults to site title
-  path: assets\img\logo_inverted.png
+  path: \assets\img\logo_inverted.png
   height: 90 #height in px, defaults to 52px
 
 analytics:
