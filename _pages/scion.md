@@ -25,3 +25,16 @@ achievable through incremental changes.
 <a class="btn btn-primary btn-lg" href="https://github.com/scionproto/scion">
     <i class="fab fa-github"></i> Source Code
 </a>
+
+<br>
+
+### Our logo
+
+<img align="right" src="/assets/img/logo.png" width="300px" style="vertical-align:middle;margin:0px 20px">
+Our logo repsesents a lighthouse, whose beacon has been guiding ships for centuries. Similarly, the SCION Internet Architecture relies on beacons to disseminate path information to its participants. 
+
+<img align="left" src="/assets/img/beacon_transparent.png" width="30px" style="vertical-align:middle;margin:0px 20px">
+Those beacons propagate from the core (at the top) down through SCION ASes. The lighthouse structure resembles this process.  
+
+<br>
+<br>
