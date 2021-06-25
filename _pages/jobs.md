@@ -13,4 +13,4 @@ us.
 
 ##### Open Positions
 
-- [Software Engineer - Certification](https://jobs.ethz.ch/job/view/JOPG_ethz_7nuANHLspO99BxUqFa)
+- [Managing Director](https://jobs.ethz.ch/job/view/JOPG_ethz_N0Lo22jURdiJj86Pi3)
