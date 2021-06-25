@@ -18,8 +18,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : SCION Foundation
 email      : info@scion.foundation # this is also the email contact forms will go to, if email based URL is used instead of ID based
-description: "Site description"
-author     : Your Name
+description: "The SCION Foundation promotes the advancement of next generation internet"
+author     : Nicola Rustignoli
 logo:     #optional, defaults to site title
   path: assets\img\logo_inverted.png
   height: 90 #height in px, defaults to 52px
