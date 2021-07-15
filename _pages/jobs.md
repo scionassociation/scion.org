@@ -13,4 +13,4 @@ us.
 
 ##### Open Positions
 
-- [Managing Director](https://jobs.ethz.ch/job/view/JOPG_ethz_N0Lo22jURdiJj86Pi3)
+At the moment, there are no open positions. Stay tuned for more exciting opportunities! 
