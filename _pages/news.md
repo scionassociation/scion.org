@@ -17,7 +17,7 @@ Press releases:
 
 
 **2021/07/09:**  
-Swisscom launched its premium SCION offering [www.swisscom.com/scion](www.swisscom.com/scion)
+Swisscom launches a premium internet offering based on SCION [swisscom.com/scion](https://www.swisscom.com/scion). 
 
 **2021/06/08:**  
 SCION in [technology outlook 2021](https://www.satw.ch/fileadmin/user_upload/documents/02_Themen/01_Frueherkennung/Technology_Outlook_2021/SATW_Technology_Outlook_2021_EN.pdf) (p.44), published by [SATW](https://www.satw.ch/en/).
