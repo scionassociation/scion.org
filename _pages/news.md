@@ -16,7 +16,7 @@ Press releases:
 [SNB](https://www.snb.ch/en/mmr/reference/pre_20210715/source/pre_20210715.en.pdf)
 
 **2021/07/11:**  
-The SCION secure Internet can also support ICRC's humanitarian efforts with highly reliable and resilient communication, in case of emergency network communication is essential! How re-thinking data security could help the most vulnerable. [Article by SWISSINFO available here.](https://www.swissinfo.ch/eng/how-re-thinking-data-security-could-help-the-most-vulnerable/46766478). 
+The SCION secure Internet can also support ICRC's humanitarian efforts with highly reliable and resilient communication, in case of emergency network communication is essential! How re-thinking data security could help the most vulnerable. [Article by SWISSINFO available here.](https://www.swissinfo.ch/eng/how-re-thinking-data-security-could-help-the-most-vulnerable/46766478) 
 
 **2021/07/09:**  
 Swisscom launches a premium internet offering based on SCION [swisscom.com/scion](https://www.swisscom.com/scion). 
