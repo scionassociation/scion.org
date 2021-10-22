@@ -6,3 +6,4 @@ Gemfile.lock
 unused
 bootstrap-reference.html
 /_site
+*.DS_Store
