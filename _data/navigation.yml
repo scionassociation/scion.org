@@ -22,14 +22,14 @@ nav:
   - title: "News"
     url: news
 
-  - title: "Blog"
-    url: blog
+#  - title: "Blog"
+#    url: blog
 
 #  - title: "Team"
 #    section: team
   
-  - title: "career"
-    url: jobs
+#  - title: "career"
+#    url: jobs
 
   - title: "Contact"
     section: contact

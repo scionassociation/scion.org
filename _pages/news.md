@@ -7,9 +7,15 @@ background: grey
 <br>
 
 ### SCION-Related News
+See the [SCION website](https://scion-architecture.net/pages/news/).
 <br>
 
-**2021/07/15:**  
+### SCION Foundation news
+
+**2022/01/26:**
+Patrick Naef and Prof. Vanessa Wood announce the  SCION Foundation at the [SCION Day 2022](https://scion-architecture.net/pages/scion_day_2022/).
+
+<!-- **2021/07/15:**
 The Swiss National Bank and SIX embrace SCION and build SSFN, a highly secure and efficient SCION network for the finance industry. 
 Press releases: 
 [SIX](https://six.swiss/3en8NJw)
@@ -309,3 +315,4 @@ The Swiss online journal <a href="http://www.watson.ch/!100859848">watson.ch</a>
 **2011/10/03:**  
 <a href="http://www.economist.com/blogs/babbage/2011/10/internet-routing">The Economist</a> talks about routing, hijacking, and the role of SCION.
 
+ -->
