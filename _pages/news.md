@@ -10,10 +10,10 @@ background: grey
 See the [SCION website](https://scion-architecture.net/pages/news/).
 <br>
 
-### SCION Foundation news
+### SCION Association news
 
 **2022/01/26:**
-Patrick Naef and Prof. Vanessa Wood announce the  SCION Foundation at the [SCION Day 2022](https://scion-architecture.net/pages/scion_day_2022/).
+Patrick Naef and Prof. Vanessa Wood announce the  SCION Association at the [SCION Day 2022](https://scion-architecture.net/pages/scion_day_2022/).
 
 <!-- **2021/07/15:**
 The Swiss National Bank and SIX embrace SCION and build SSFN, a highly secure and efficient SCION network for the finance industry. 
@@ -43,7 +43,7 @@ Excellent [paper](https://netsec.ethz.ch/publications/papers/scherrer__novel_int
 SCION in P4: Congratulations to researchers at SIDN labs for successfully implementing a SCION router on a P4 platform! Read more about their work [here](https://www.sidnlabs.nl/nieuws-en-blogs/future-internet-at-terabit-speeds-scion-in-p4).
 
 **2021/05/20:**  
-The latest SCION newsletter is available [here](https://mailchi.mp/90a73969ba79/scion-newsletter-6498016), discussing the launch of the SCION Foundation and green routing.
+The latest SCION newsletter is available [here](https://mailchi.mp/90a73969ba79/scion-newsletter-6498016), discussing the launch of the SCION Association and green routing.
 
 **2021/05/17:**  
 David Hausheer has published a [blogpost](https://labs.ripe.net/author/hausheer/scion-a-novel-internet-architecture/) about the recent Birds of a Feather (BoF) session about SCION at the RIPE 81 conference and will be organizing another one at RIPE 82.

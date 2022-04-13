@@ -8,7 +8,7 @@ background: grey
 
 ## SCION Open-Source Development
 
-As part of the SCION Foundation initiative, the foundation is maintaining an
+As part of the SCION Association initiative, the foundation is maintaining an
 open source reference implementation of the SCION core protocol and its
 extensions. The code follows the SCION standard defined by the foundation and is
 therefore compatible with other standard-compliant implementations of SCION.

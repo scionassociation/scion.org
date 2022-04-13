@@ -11,7 +11,7 @@ Enabling highly available, trustworthy, transparent, efficient, and affordable c
 
 ## Our Mission
 
-The SCION Foundation is a non-profit organisation facilitating the global adoption of the SCION next generation Internet to meet the growing requirements for reliability, security, performance, and compliance in the digital economy, fueled by the  proliferation of and dependency on interconnected machines, devices and people.
+The SCION Association is a non-profit organisation facilitating the global adoption of the SCION next generation Internet to meet the growing requirements for reliability, security, performance, and compliance in the digital economy, fueled by the  proliferation of and dependency on interconnected machines, devices and people.
 
 SCION strives to stabilize digital markets and democratize secure access to the Internet around the globe, while being compliant with data privacy requirements of businesses, their customers and other stakeholders.
 
@@ -32,15 +32,15 @@ Each stream is discussed in more detail below.
 
 ### SCION Standardization
 
-The goal of the SCION Foundation is to establish the SCION internet architecture
-as a global internet standard. To that extent, the SCION Foundation collaborates
+The goal of the SCION Association is to establish the SCION internet architecture
+as a global internet standard. To that extent, the SCION Association collaborates
 with internet standard organizations such as the IETF, ITU, and ENISA to
 publish and continuously further develop SCION standard documents. These
 documents allow enterprises to create SCION-compatible products and services.
 
 ### SCION Open-Source Development
 
-As part of the SCION Foundation initiative, the foundation is maintaining an
+As part of the SCION Association initiative, the foundation is maintaining an
 open source reference implementation of the SCION core protocol and its
 extensions. The code follows the SCION standard defined by the foundation and is
 therefore compatible with other standard-compliant implementations of SCION.
@@ -62,7 +62,7 @@ The source code can be found on GitHub here:
 
 ### SCION Certification
 
-The SCION Foundation is currently building a certification institute to test a
+The SCION Association is currently building a certification institute to test a
 wide variety of devices and services such as network appliances, ISPs and IXPs for
 their compatability with SCION. When a product or service passes rigorous
 testing by the certification institute, it is granted the right to carry the SCION
@@ -71,7 +71,7 @@ specification and therefore meets high standards regarding user experience and
 seamless compatibility with other SCION certified products and services.
 
 
-**A company must be a member of the SCION Foundation and achieve
+**A company must be a member of the SCION Association and achieve
 certification in order to use the SCION certified logo.**
 
 <br>

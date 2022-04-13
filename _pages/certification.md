@@ -8,7 +8,7 @@ background: grey
 
 ## SCION Certification
 
-The SCION Foundation is currently building a certification institute to test a
+The SCION Association is currently building a certification institute to test a
 wide variety of devices and services such as network appliances, ISPs and IXPs for
 their compatability with SCION. When a product or service passes rigorous
 testing by the certification institute, it is granted the right to carry the SCION
@@ -17,5 +17,5 @@ specification and therefore meets high standards regarding user experience and
 seamless compatibility with other SCION certified products and services.
 
 
-**A company must be a member of the SCION Foundation and achieve
+**A company must be a member of the SCION Association and achieve
 certification in order to use the SCION certified logo.**

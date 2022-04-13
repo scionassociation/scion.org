@@ -16,9 +16,9 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://www.scion.foundation" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : SCION Foundation
+title      : SCION Association
 email      : info@scion.foundation # this is also the email contact forms will go to, if email based URL is used instead of ID based
-description: "The SCION Foundation promotes the advancement of next generation internet"
+description: "The SCION Association promotes the advancement of next generation internet"
 author     : Nicola Rustignoli
 logo:     #optional, defaults to site title
   path: \assets\img\logo_inverted.png
