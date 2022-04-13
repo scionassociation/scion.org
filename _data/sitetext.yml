@@ -5,7 +5,7 @@ header:
     buttonlink:
 
 foundation:
-  title: Who we are
+  title: About the Association
   text: Scalability, Control, and Isolation on Next-Generation Networks
   section: about
   button: Learn More
@@ -105,7 +105,7 @@ about:
     section: about
 
 partners:
-    title: Our Partners
+    title: Our Members
     text: ""
     section: clients
     max-height: 100px
@@ -113,45 +113,58 @@ partners:
     list:
       - title: "ETH Zürich"
         url: https://ethz.ch
-        logo: assets/img/clients/eth.png
-      - title: "ETH Foundation"
-        url: https://www.ethz-foundation.ch/
-        logo: assets/img/clients/eth_foundation.png
+        logo: assets/img/clients/eth.svg
+      #- title: "ETH Foundation"
+      #  url: https://www.ethz-foundation.ch/
+      #  logo: assets/img/clients/eth_foundation.png
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Meet the people of the SCION Foundation"
+    title: "Our Team"
+    text: "Meet the people of the SCION Association"
     subtext: ""
     section: team
     people:
-      - name: "Adrian Perrig"
-        role: "Board Member"
-        image: assets/img/team/perrig.jpg
+      - name: "Patrick Naef"
+        role: "Project Manager"
+        image: assets/img/team/patrick.jpg
         social:
-          - url: https://twitter.com/SCIONfoundation
-            icon: fab fa-twitter
-          # - url: https://facebook.com
-            # icon: fab fa-facebook-f
-          - url: https://www.linkedin.com/in/adrian-perrig-58334830/
+          - url: https://www.linkedin.com/in/patrick-naef-446568/
             icon: fab fa-linkedin-in
-      - name: "Nicola Rustignoli"
-        role: "Project Lead"
+
+      - name: "Matthias Frei"
+        role: "Lead Engineer Open Source"
+        image: assets/img/team/matzf.png
         social:
-          - url: https://www.linkedin.com/in/nicola-rustignoli-830b7512/
-            icon: fab fa-linkedin-in
-        image: assets/img/team/rustignoli.jpg
-      - name: "Shancong Yu"
-        role: "Marketing & Communications"
-        image: assets/img/team/song.jpg
+          - url: https://github.com/matzf
+            icon: fab fa-github
+
+      - name: "René Widmer"
+        role: "Legal & Operations"
+        image: assets/img/team/rene.jpg
         social:
-          - url: https://www.linkedin.com/in/shancong-yu-97906062/
+          - url: https://www.linkedin.com/in/rené-widmer-soyka-876a772/
             icon: fab fa-linkedin-in
+
       - name: "Corine De Kater"
-        #image: assets/img/team/haehni.jpg
-        role: ""
+        image: assets/img/team/cdk.jpg
+        role: "Standardisation"
         social:
           - url: https://www.linkedin.com/in/corine-de-kater-57447839/
             icon: fab fa-linkedin-in
+
+      - name: "Nicola Rustignoli"
+        role: "Founding Engineer"
+        social:
+          - url: https://www.linkedin.com/in/nicola-rustignoli-830b7512/
+            icon: fab fa-linkedin-in
+        image: assets/img/team/rustignoli.jpg    
+
+      - name: "Adrian Perrig"
+        role: "Evangelist"
+        image: assets/img/team/perrig.jpg
+        social:
+          - url: https://twitter.com/Adrian_Perrig
+            icon: fab fa-twitter
           
 contact:
     title: "Contact Us"
