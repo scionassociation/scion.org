@@ -11,23 +11,23 @@ foundation:
   button: Learn More
   buttonlink: /about
 
-# services:
-#    title: "What we do"
-#    text: "Advancing the SCION Technology"
-#    section: services
-#    list:
-#      - title: "SCION Standardization"
-#        desc: "Standardization of the SCION Protocol"
-#        icon: fas fa-university #find more at https://fontawesome.com/icons
-#        url: standardization
-#      - title: "SCION Development"
-#        desc: "Development of the SCION open source reference implementation"
-#        icon: fas fa-file-code
-#        url: development   
-#      - title: "SCION Certification"
-#        desc: "Certification of SCION compatible infrastructures and services"
-#        icon: fas fa-stamp
-#        url: certification
+services:
+  title: "Core areas"
+  text: "We are building the next generation SCION Internet"
+  section: services
+  list:
+    - title: "SCION Standardization"
+      desc: "Standardization of the SCION Protocol"
+      icon: fas fa-cogs #find more at https://fontawesome.com/icons
+      url: standardization
+    - title: "SCION Development"
+      desc: "Development of the SCION open source reference implementation"
+      icon: fas fa-file-code
+      url: development   
+    - title: "SCION Certification"
+      desc: "Certification of SCION compatible infrastructures and services"
+      icon: fas fa-stamp
+      url: certification
 
 # areas:
 #    title: "Core Areas"
@@ -106,7 +106,7 @@ about:
 
 partners:
     title: Our Members
-    text: ""
+    text: "Want to be part of the SCION Association? Contact us below."
     section: clients
     max-height: 100px
     horizontal-scrolling: "yes" #"yes/no"
@@ -171,6 +171,11 @@ contact:
     text: ""
     section: contact
     
+newsletter:
+    title: "Newsletter"
+    text: "Sign up for the SCION newsletter"
+    section: services
+
 footer:
     legal: "Privacy Policy"
     social:

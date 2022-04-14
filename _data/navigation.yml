@@ -12,13 +12,6 @@ nav:
      - title: separator
      - title: Members
        url: /members
-#     - title: separator  
-#     - title: Standardization
-#       url: /standardization
-#     - title: Development
-#       url: /development
-#     - title: Certification
-#       url: /certification
 
   - title: "SCION"
     url: scion
