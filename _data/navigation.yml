@@ -2,13 +2,17 @@ nav:
 
   - title: "About"
     section: about
-#   sublinks:
+    sublinks:
     # add a horizontal dropdown separator with: title: separator
-#     - title: Our Mission
-#       url: /mission
-#     - title: Organization
-#       url: /organization
-#     - title: separator
+     - title: Who We Are
+       url: /about
+     - title: separator
+     - title: Team
+       url: /team
+     - title: separator
+     - title: Members
+       url: /members
+#     - title: separator  
 #     - title: Standardization
 #       url: /standardization
 #     - title: Development
@@ -19,14 +23,27 @@ nav:
   - title: "SCION"
     url: scion
 
-  - title: "News"
-    url: news
+  - title: "Projects"
+    section: projects
+    sublinks:
+    # add a horizontal dropdown separator with: title: separator
+     - title: Standardization
+       url: /standardization
+     - title: separator
+     - title: Open Source
+       url: /development
+     - title: separator
+     - title: Certification
+       url: /certification
+
+#  - title: "News"
+#    url: news
 
 #  - title: "Blog"
 #    url: blog
 
-  - title: "Team"
-    section: team
+#  - title: "Team"
+#    section: team
   
 #  - title: "career"
 #    url: jobs

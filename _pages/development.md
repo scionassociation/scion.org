@@ -8,9 +8,9 @@ background: grey
 
 ## SCION Open-Source Development
 
-As part of the SCION Association initiative, the foundation is maintaining an
+As part of the SCION Association initiative, the Association is maintaining an
 open source reference implementation of the SCION core protocol and its
-extensions. The code follows the SCION standard defined by the foundation and is
+extensions. The code follows the SCION standard defined by the association and is
 therefore compatible with other standard-compliant implementations of SCION.
 
 Currently, the SCION open source project contains the following protocols and
@@ -23,7 +23,7 @@ services:
 - DRKey
 - Hidden paths service
 
-The code can be found on GitHub here:  
-<a class="btn btn-primary btn-lg" href="https://github.com/scionproto/scion">
+The source code can be found on GitHub here:  
+<a class="btn btn-primary btn-md" href="https://github.com/scionproto/scion">
     <i class="fab fa-github"></i> Source Code
 </a>

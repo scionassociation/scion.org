@@ -77,7 +77,7 @@ timeline:
     events:
       - title: "Our Humble Beginnings"
         year: "March 2021"
-        desc: "SCION Foundation is established"
+        desc: "SCION Association is established"
         image: assets/img/timeline/1.jpg
         alt: 
       - title: "First SCION standard is finished"
@@ -174,11 +174,8 @@ contact:
 footer:
     legal: "Privacy Policy"
     social:
-    #  - url: https://twitter.com
-    #    icon: "fab fa-twitter"  
-      - url: https://www.facebook.com/SCION-Secure-Internet-Architecture-409142279642924/
-        icon: "fab fa-facebook-f"
-      - url: https://www.linkedin.com/showcase/scion-internet-architecture/
+      - url: https://www.linkedin.com/company/scion-association/
         icon: "fab fa-linkedin-in"
-        
+      - url: https://twitter.com/SCIONassociatio
+        icon: "fab fa-twitter"
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
