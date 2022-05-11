@@ -23,7 +23,10 @@ services:
 - DRKey
 - Hidden paths service
 
-The source code can be found on GitHub here:  
+### Resources 
 <a class="btn btn-primary btn-md" href="https://github.com/scionproto/scion">
     <i class="fab fa-github"></i> Source Code
+</a>
+<a class="btn btn-primary btn-md" href="https://docs.scion.org">
+    <i class="fas fa-book"></i> Documentation
 </a>

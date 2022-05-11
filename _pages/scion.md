@@ -20,10 +20,12 @@ achievable through incremental changes.
 
 <br>
 <a class="btn btn-primary btn-lg" href="https://scion-architecture.net">
-    <i class="fas fa-user-graduate"></i> Learn More
+    <i class="fas fa-user-graduate"></i> SCION Website
 </a>
 <a class="btn btn-primary btn-lg" href="https://github.com/scionproto/scion">
     <i class="fab fa-github"></i> Source Code
 </a>
-
+<a class="btn btn-primary btn-lg" href="https://docs.scion.org">
+    <i class="fas fa-book"></i> Documentation
+</a>
 <br>
