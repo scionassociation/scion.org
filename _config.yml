@@ -17,7 +17,7 @@ url    : "https://scion.org" # the base hostname & protocol for your site, e.g. 
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : SCION Association
-email      : info@scion.foundation # this is also the email contact forms will go to, if email based URL is used instead of ID based
+email      : info@scion.org # this is also the email contact forms will go to, if email based URL is used instead of ID based
 description: "The SCION Association promotes the advancement of next generation internet"
 author     : Nicola Rustignoli
 logo:     #optional, defaults to site title
