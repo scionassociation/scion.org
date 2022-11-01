@@ -125,46 +125,40 @@ team:
     section: team
     people:
       - name: "Patrick Naef"
-        role: "Project Manager"
+        role: "CEO"
         image: assets/img/team/patrick.jpg
         social:
           - url: https://www.linkedin.com/in/patrick-naef-446568/
             icon: fab fa-linkedin-in
 
       - name: "Matthias Frei"
-        role: "Lead Engineer Open Source"
+        role: "Software Engineer"
         image: assets/img/team/matzf.png
         social:
           - url: https://github.com/matzf
             icon: fab fa-github
 
-      - name: "René Widmer"
-        role: "Legal & Operations"
-        image: assets/img/team/rene.jpg
-        social:
-          - url: https://www.linkedin.com/in/rené-widmer-soyka-876a772/
-            icon: fab fa-linkedin-in
-
       - name: "Corine De Kater"
         image: assets/img/team/cdk.jpg
-        role: "Standardisation"
+        role: "Technical Writer"
         social:
           - url: https://www.linkedin.com/in/corine-de-kater-57447839/
             icon: fab fa-linkedin-in
 
       - name: "Nicola Rustignoli"
-        role: "Founding Engineer"
+        role: "Technical Community Engineer"
         social:
           - url: https://www.linkedin.com/in/nicola-rustignoli-830b7512/
             icon: fab fa-linkedin-in
         image: assets/img/team/rustignoli.jpg    
 
-      - name: "Adrian Perrig"
-        role: "Evangelist"
-        image: assets/img/team/perrig.jpg
+      - name: "René Widmer"
+        role: "Operations Manager"
+        image: assets/img/team/rene.jpg
         social:
-          - url: https://twitter.com/Adrian_Perrig
-            icon: fab fa-twitter
+          - url: https://www.linkedin.com/in/rené-widmer-soyka-876a772/
+            icon: fab fa-linkedin-in
+
           
 contact:
     title: "Contact Us"
