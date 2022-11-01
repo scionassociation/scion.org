@@ -21,7 +21,7 @@ The Association nurtures the growth of a global SCION ecosystem, promotes open s
 
 ## About
 
-Our project manager Patrick Naef and prof. Vanessa Wood of ETH Zürich announce the effort to establish the SCION Association (previously named Foundation) at the [SCION Day 2022](https://scion-architecture.net/pages/scion_day_2022/).  
+Our CEO Patrick Naef and prof. Vanessa Wood of ETH Zürich announce the effort to establish the SCION Association (previously named Foundation) at the [SCION Day 2022](https://scion-architecture.net/pages/scion_day_2022/).  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IxAFYnrYzBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
