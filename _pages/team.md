@@ -8,3 +8,4 @@ background: grey
 
 {% include team.html %}
 
+{% include board.html %}

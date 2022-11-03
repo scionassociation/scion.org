@@ -150,6 +150,20 @@ team:
           - url: https://www.linkedin.com/in/rené-widmer-soyka-876a772/
             icon: fab fa-linkedin-in
 
+board:
+    title: "Board of Directors"
+    text: 
+    subtext: ""
+    section: team
+    people:
+      - name: "Prof. Dr. Vanessa Wood"
+        image: assets/img/team/patrick.jpg
+      - name: "Dr. Ulrich Sigg"
+        image: assets/img/team/patrick.jpg
+      - name: "Prof. Dr. Reto Francioni"
+        image: assets/img/team/patrick.jpg
+
+
           
 contact:
     title: "Contact Us"
