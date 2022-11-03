@@ -4,14 +4,17 @@ nav:
     section: about
     sublinks:
     # add a horizontal dropdown separator with: title: separator
-     - title: Who We Are
+     - title: The Association
        url: /about
+     - title: separator
+     - title: Vision and Mission
+       url: /vision
      - title: separator
      - title: Team
        url: /team
-     - title: separator
-     - title: Members
-       url: /members
+    # - title: separator
+    # - title: Members
+    #   url: /members
 
   - title: "SCION"
     url: scion

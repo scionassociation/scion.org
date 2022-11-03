@@ -20,7 +20,7 @@ services:
       desc: "Standardization of the SCION Protocol"
       icon: fas fa-cogs #find more at https://fontawesome.com/icons
       url: standardization
-    - title: "SCION Development"
+    - title: "Open Source Development"
       desc: "Development of the SCION open source reference implementation"
       icon: fas fa-file-code
       url: development   
@@ -69,35 +69,26 @@ portfolio:
     
 
 timeline:
-    title: "About" 
+    title: "" 
     text: "Timeline"
-    section: timeline
+    section: ""
     # left is the default
     # start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "March 2021"
-        desc: "SCION Association is established"
-        image: assets/img/timeline/1.jpg
-        alt: 
-      - title: "First SCION standard is finished"
-        year: "October 2021"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt: 
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Announcement"
+        year: "January 2022"
+        desc: "CEO Patrick Naef and prof. Vanessa Wood of ETH Zürich [announce the effort to establish the SCION Association](https://www.youtube.com/watch?v=IxAFYnrYzBM)."
         image: assets/img/timeline/4.jpg
-        alt: 
+        alt:
         # you can enforce the aligment
+        align: left
+      - title: "Founding"
+        year: "August 2022"
+        desc: "The SCION Association is founded jointly by ETH Zurich and Dr. Uli Sigg on 24. August 2022 with its headquarters located in Lucerne."
+        image: assets/img/timeline/1.jpg
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+        alt:   
+    end: "Stay <br> tuned for <br> updates!"
 
 about:
     title: "About Us"
@@ -119,7 +110,7 @@ partners:
       #  logo: assets/img/clients/eth_foundation.png
     
 team:
-    title: "Our Team"
+    title: "Team"
     text: "Meet the people of the SCION Association"
     subtext: ""
     section: team
