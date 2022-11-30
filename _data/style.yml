@@ -6,7 +6,7 @@ section-href: "black" # color of the links in the services/organization/areas se
 # black: "#000"
 
 #Image Customization
-header-image: "../img/lighthouse_blue.jfif"
+header-image: "../img/lighthouse_header_rotated.jpg"
 contact-image: "../img/contact.png"
 
 #Font Awesome icon for portfolio grid when an item is hovered over
