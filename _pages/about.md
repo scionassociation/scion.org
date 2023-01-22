@@ -14,15 +14,12 @@ The SCION Association is a non-profit organisation driving transformation of the
 
 The SCION Association was founded jointly by ETH Zurich and Dr. Uli Sigg on 24. August 2022 with its headquarters located in Lucerne. Prof. Dr. Vanessa Wood, Dr. Ulrich Sigg and Prof. Dr. Reto Francioni are appointed as the initial members of the [Association Board](/board). Patrick Naef becomes the CEO of the Association.
 
-The SCION Association is now open for membership to entities interested in SCION. The Association is also globally recruiting further members of the Association and Advisory Board. Extensive communication will follow in early 2023 as soon as the Association Board and the Advisory Board are fully constituted.
+The SCION Association is now open for [membership](/become-a-member) to entities interested in SCION. The Association is also globally recruiting further members of the Association and Advisory Board.
 
-### Announcement 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IxAFYnrYzBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Vision
+### Vision
 Enabling highly available, trustworthy, transparent, efficient, and affordable communication; ensuring reliable and secure transport of electronic data assets throughout global networks.
 
-## Mission
+### Mission
 
 The SCION Association is a non-profit organisation facilitating the global adoption of the SCION next generation Internet to meet the growing requirements for reliability, security, performance, and compliance in the digital economy, fueled by the  proliferation of and dependency on interconnected machines, devices and people.
 
@@ -32,8 +29,11 @@ The Association brings innovation developed at ETH Zurich to the market, making 
 
 The Association nurtures the growth of a global SCION ecosystem, promotes open source and open standards that allow anyone to succeed, making SCION accessible to everyone. The Association defines and promotes standards so that implementations are reliable, secure, and interoperable.
 
-{% include timeline.html %}
 
+### Announcement 
+In 2022 CEO Patrick Naef and prof. Vanessa Wood of ETH Zürich announce the effort to establish the SCION Association.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IxAFYnrYzBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Focus Areas
 

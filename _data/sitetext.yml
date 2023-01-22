@@ -97,13 +97,13 @@ about:
 
 partners:
     title: Our Members
-    text: "Want to be part of the SCION Association? Contact us below."
+#    text: "Want to be part of the SCION Association? Contact us below."
     section: clients
-    max-height: 100px
+    max-height: 80px
     horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "Swss National Bank"
-        url: https://www.snb.ch/en/
+        url: https://www.snb.ch/
         logo: assets/img/clients/snb.svg
       - title: "ETH Zürich"
         url: https://ethz.ch
@@ -111,7 +111,7 @@ partners:
       - title: "Uli Sigg"
         url: https://en.wikipedia.org/wiki/Uli_Sigg    
         logo: assets/img/clients/sigg_member.png
- 
+
       - title: "SWITCH"
         url: https://www.switch.ch/
         logo: assets/img/clients/switch.png

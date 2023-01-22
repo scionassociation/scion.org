@@ -10,3 +10,8 @@ background: grey
 
 
 
+<div class="row">
+    <div class="col text-center">
+        <a class="btn btn-primary btn-xl" href="/become-a-member"> Membership Benefits</a>
+    </div>
+</div>

@@ -22,18 +22,18 @@ nav:
   - title: "SCION"
     url: scion
 
-  - title: "Projects"
+  - title: "Membership"
     section: projects
     sublinks:
     # add a horizontal dropdown separator with: title: separator
+     - title: Membership Benefits
+       url: /become-a-member
+     - title: separator
      - title: Standardization
        url: /standardization
      - title: separator
      - title: Open Source
        url: /development
-     - title: separator
-     - title: Certification
-       url: /certification
 
 #  - title: "News"
 #    url: news
