@@ -18,6 +18,9 @@ nav:
      - title: separator
      - title: "Jobs"
        url: jobs
+     - title: separator
+     - title: "Contact"
+       section: contact
 
   - title: "SCION"
     url: scion
@@ -35,15 +38,15 @@ nav:
      - title: Open Source
        url: /development
 
-#  - title: "News"
-#    url: news
+  - title: "Events"
+    section: events
+    sublinks:
+    # add a horizontal dropdown separator with: title: separator
+     - title: SCION Day 2023
+       url: /scion-day
+
+  - title: "Press"
+    url: /press
 
 #  - title: "Blog"
 #    url: blog
-
-#  - title: "Team"
-#    section: team
-
-
-  - title: "Contact"
-    section: contact
