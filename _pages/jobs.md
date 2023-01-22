@@ -46,4 +46,6 @@ You should be independent and self-driven, and have experience with communicatio
 * A great attention to detail.
 * Ability to understand network-related products and services, or experience in the space of IT/cybersecurity are a strong plus
 
-Application consisting of motivation letter, CV and references shall be sent directly to <a href="mailto:jobs@scion.org">jobs@scion.org</a>. 
+
+<a class="btn btn-primary btn-md" href="https://www.jobs.ethz.ch/job/view/JOPG_ethz_KoGCEp4SNZP9ss8EWn" target="_blank">
+    Apply

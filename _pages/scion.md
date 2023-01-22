@@ -19,13 +19,13 @@ we can fundamentally improve the security to a level that is unlikely to be
 achievable through incremental changes.
 
 <br>
-<a class="btn btn-primary btn-lg" href="https://scion-architecture.net">
+<a class="btn btn-primary btn-lg" href="https://scion-architecture.net" target="_blank">
     <i class="fas fa-user-graduate"></i> SCION Website
 </a>
-<a class="btn btn-primary btn-lg" href="https://github.com/scionproto/scion">
+<a class="btn btn-primary btn-lg" href="https://github.com/scionproto/scion" target="_blank">
     <i class="fab fa-github"></i> Source Code
 </a>
-<a class="btn btn-primary btn-lg" href="https://docs.scion.org">
+<a class="btn btn-primary btn-lg" href="https://docs.scion.org" target="_blank">
     <i class="fas fa-book"></i> Documentation
 </a>
 <br>
