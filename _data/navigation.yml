@@ -12,9 +12,9 @@ nav:
      - title: separator
      - title: Team
        url: /team
-    # - title: separator
-    # - title: Members
-    #   url: /members
+     - title: separator
+     - title: Board of Directors
+       url: /board
 
   - title: "SCION"
     url: scion

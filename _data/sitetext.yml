@@ -154,14 +154,28 @@ board:
     title: "Board of Directors"
     text: 
     subtext: ""
-    section: team
+    section: board
     people:
       - name: "Prof. Dr. Vanessa Wood"
-        image: assets/img/team/patrick.jpg
-      - name: "Dr. Ulrich Sigg"
-        image: assets/img/team/patrick.jpg
+        image: assets/img/team/vanessa_wood.jpg
+        role: Chair of the Executive Board
+      - name: "Dr. Uli Sigg"
+        image: assets/img/team/uli_sigg.jpg
       - name: "Prof. Dr. Reto Francioni"
-        image: assets/img/team/patrick.jpg
+        image: assets/img/team/reto_francioni.jpg    
+      - name: "Dr. Andréa M. Maechler"
+        image: assets/img/team/andrea_maechler.jpg
+
+
+advisory-board:
+    title: "Advisory Board"
+    text: 
+    subtext: ""
+    section: board
+    people:        
+      - name: "Prof. Dr. Andrian Perrig"
+        image: assets/img/team/adrian_perrig.jpg
+        role: Chair of the Advisory Board
 
 
           
