@@ -7,4 +7,3 @@ background: grey
 <br>
 
 {% include team.html %}
-

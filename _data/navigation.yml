@@ -1,48 +1,52 @@
 nav:
 
-  - title: "About"
+  - title: "Associaton"
     section: about
     sublinks:
     # add a horizontal dropdown separator with: title: separator
-     - title: The Association
+     - title: About the Association
        url: /about
      - title: separator
-     - title: Vision and Mission
-       url: /vision
+     - title: Board of Directors
+       url: /board
+     - title: separator
+     - title: Members
+       url: /members
      - title: separator
      - title: Team
        url: /team
-    # - title: separator
-    # - title: Members
-    #   url: /members
+     - title: separator
+     - title: "Jobs"
+       url: jobs
+     - title: separator
+     - title: "Contact"
+       section: contact
 
   - title: "SCION"
     url: scion
 
-  - title: "Projects"
+  - title: "Membership"
     section: projects
     sublinks:
     # add a horizontal dropdown separator with: title: separator
+     - title: Membership Benefits
+       url: /become-a-member
+     - title: separator
      - title: Standardization
        url: /standardization
      - title: separator
      - title: Open Source
        url: /development
-     - title: separator
-     - title: Certification
-       url: /certification
 
-#  - title: "News"
-#    url: news
+  - title: "Events"
+    section: events
+    sublinks:
+    # add a horizontal dropdown separator with: title: separator
+     - title: SCION Day 2023
+       url: /scion-day
+
+  - title: "Press"
+    url: /press
 
 #  - title: "Blog"
 #    url: blog
-
-#  - title: "Team"
-#    section: team
-  
-  - title: "career"
-    url: jobs
-
-  - title: "Contact"
-    section: contact

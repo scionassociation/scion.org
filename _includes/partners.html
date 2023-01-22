@@ -17,7 +17,7 @@
       %}>
       {% for partners in site.data.sitetext.partners.list %}
       <div class="col-md-3 col-sm-6">
-        <a href="{{ partners.url }}">
+        <a href="{{ partners.url }}" target="_blank">
           <img class="img-fluid d-block mx-auto" src="{{ partners.logo }}" alt="{{ client.title }}"
             style="max-height: {{ site.data.sitetext.partners.max-height | default: " 100px" }}">
         </a>

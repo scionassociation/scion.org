@@ -1,5 +1,5 @@
 header:
-    title: Enabling Secure and Efficient Communication Worldwide
+    title: Enabling highly available, trustworthy, transparent, efficient, and affordable communication.
     text:
     button:
     buttonlink:
@@ -97,17 +97,33 @@ about:
 
 partners:
     title: Our Members
-    text: "Want to be part of the SCION Association? Contact us below."
+#    text: "Want to be part of the SCION Association? Contact us below."
     section: clients
-    max-height: 100px
+    max-height: 80px
     horizontal-scrolling: "yes" #"yes/no"
     list:
+      - title: "Swss National Bank"
+        url: https://www.snb.ch/
+        logo: assets/img/clients/snb.svg
       - title: "ETH Zürich"
         url: https://ethz.ch
         logo: assets/img/clients/eth.svg
-      #- title: "ETH Foundation"
-      #  url: https://www.ethz-foundation.ch/
-      #  logo: assets/img/clients/eth_foundation.png
+      - title: "Uli Sigg"
+        url: https://en.wikipedia.org/wiki/Uli_Sigg    
+        logo: assets/img/clients/sigg_member.png
+
+      - title: "SWITCH"
+        url: https://www.switch.ch/
+        logo: assets/img/clients/switch.png
+      - title: "DIDAS"
+        url: https://www.didas.swiss/
+        logo: assets/img/clients/didas.png
+      - title: "Eraneos"
+        url: https://www.eraneos.com/
+        logo: assets/img/clients/eraneos.png
+      - title: "ETH Foundation"
+        url: https://www.ethz-foundation.ch/
+        logo: assets/img/clients/eth_foundation.png
     
 team:
     title: "Team"
@@ -149,6 +165,34 @@ team:
         social:
           - url: https://www.linkedin.com/in/rené-widmer-soyka-876a772/
             icon: fab fa-linkedin-in
+
+board:
+    title: "Board of Directors"
+    text: 
+    subtext: ""
+    section: board
+    people:
+      - name: "Prof. Dr. Vanessa Wood"
+        image: assets/img/team/vanessa_wood.jpg
+        role: Chair of the Executive Board
+      - name: "Dr. Uli Sigg"
+        image: assets/img/team/uli_sigg.jpg
+      - name: "Prof. Dr. Reto Francioni"
+        image: assets/img/team/reto_francioni.jpg    
+      - name: "Dr. Andréa M. Maechler"
+        image: assets/img/team/andrea_maechler.jpg
+
+
+advisory-board:
+    title: "Advisory Board"
+    text: 
+    subtext: ""
+    section: board
+    people:        
+      - name: "Prof. Dr. Andrian Perrig"
+        image: assets/img/team/adrian_perrig.jpg
+        role: Chair of the Advisory Board
+
 
           
 contact:
