@@ -1,5 +1,5 @@
 header:
-    title: Enabling Secure and Efficient Communication Worldwide
+    title: Enabling highly available, trustworthy, transparent, efficient, and affordable communication.
     text:
     button:
     buttonlink:
@@ -102,12 +102,28 @@ partners:
     max-height: 100px
     horizontal-scrolling: "yes" #"yes/no"
     list:
+      - title: "Swss National Bank"
+        url: https://www.snb.ch/en/
+        logo: assets/img/clients/snb.svg
       - title: "ETH Zürich"
         url: https://ethz.ch
         logo: assets/img/clients/eth.svg
-      #- title: "ETH Foundation"
-      #  url: https://www.ethz-foundation.ch/
-      #  logo: assets/img/clients/eth_foundation.png
+      - title: "Uli Sigg"
+        url: https://en.wikipedia.org/wiki/Uli_Sigg    
+        logo: assets/img/clients/sigg_member.png
+ 
+      - title: "SWITCH"
+        url: https://www.switch.ch/
+        logo: assets/img/clients/switch.png
+      - title: "DIDAS"
+        url: https://www.didas.swiss/
+        logo: assets/img/clients/didas.png
+      - title: "Eraneos"
+        url: https://www.eraneos.com/
+        logo: assets/img/clients/eraneos.png
+      - title: "ETH Foundation"
+        url: https://www.ethz-foundation.ch/
+        logo: assets/img/clients/eth_foundation.png
     
 team:
     title: "Team"
