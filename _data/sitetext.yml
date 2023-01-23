@@ -179,8 +179,8 @@ board:
         image: assets/img/team/uli_sigg.jpg
       - name: "Prof. Dr. Reto Francioni"
         image: assets/img/team/reto_francioni.jpg    
-      - name: "Dr. Andréa M. Maechler"
-        image: assets/img/team/andrea_maechler.jpg
+      #- name: "Dr. Andréa M. Maechler"
+      #  image: assets/img/team/andrea_maechler.jpg
 
 
 advisory-board:
